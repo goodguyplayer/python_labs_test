@@ -1,2 +1,5 @@
 python-dotenv
+pandas[performance, plot, output-formatting, computation]
+pytest
 dask
+matplotlib
